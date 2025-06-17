@@ -72,7 +72,7 @@ Helps job seekers quickly understand scraped job postings at a glance and tailor
 
 ## 📸 Screenshots
 
-* ![image](https://github.com/user-attachments/assets/3743307e-a052-4eee-b613-d52138031dd8)
+![image](https://github.com/user-attachments/assets/3743307e-a052-4eee-b613-d52138031dd8)
 * Workflow in n8n
 
 
